@@ -7,9 +7,9 @@ services:
     environment:
       POSTGRESQL_ADDRESS: postgres
       POSTGRES_PASSWORD: postgres
-      POSTGRESQL_DATABASE : postgres
+      POSTGRESQL_DATABASE: postgres
       POSTGRESQL_USERNAME: postgres
-      DATABASE_PORT : 5432
+      DATABASE_PORT: 5432
       MONGO_DATABASE: mongo
       MONGO_HOST: mongo
       MONGO_USERNAME: mongo
